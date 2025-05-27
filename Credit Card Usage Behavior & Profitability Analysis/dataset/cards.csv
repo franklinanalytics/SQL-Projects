@@ -1,0 +1,4 @@
+card_id,card_type,annual_fee,reward_rate,credit_limit
+1,Classic,5204.16,0.03,50000
+2,Gold,7679.82,0.04,100000
+3,Platinum,11203.04,0.05,500000
